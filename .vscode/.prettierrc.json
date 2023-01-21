@@ -1,0 +1,9 @@
+{
+  "prettier.enable": true,
+  "prettier.useTabs": true,
+  "prettier.htmlWhitespaceSensitivity": "css",
+  "prettier.bracketSpacing": true,
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "auto",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
